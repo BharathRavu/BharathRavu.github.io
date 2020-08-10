@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <title></title>
+
+<meta name="theme-color" content="" />
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+<meta name="generator" content="aafu theme by Darshan in Hugo 0.74.3" />
+
+
+
+  <link
+    rel="stylesheet"
+    href="https://bharathravu.github.io/css/bootstrap/bootstrap.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="//fonts.googleapis.com/css?family=Didact+Gothic%7CRoboto:400%7CRoboto+Mono"
+  />
+  <link rel="stylesheet" href="https://bharathravu.github.io/css/aafu_dark.css" />
+  <link rel="stylesheet" href="https://bharathravu.github.io/css/aafu.css" />
+
+  <script>
+    var themeColor = document.querySelector("meta[name=theme-color]");
+    window.onload = () => {
+      themeColor.content = getComputedStyle(document.body)["background-color"];
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+    window.onresize = () => {
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+  </script>
+</head>
+<body class="container">
+    <main style="min-height: calc(100vh - 60px);">
+      
+      <div class="d-flex flex-row row p-2">
+  <h3 class="main-menu mr-3">
+    <a href="https://bharathravu.github.io/">Home</a>
+  </h3>
+</div>
+
+      
+<div class="ml-auto mr-auto row row-eq-height rounded">
+  <div class="col-md-5 text-center p-2 mt-1">
+    <div class="profile-area rounded text-center position-relative shadow">
+      <div class="d-flex justify-content-center pt-2">
+  <div class="w-100 h-100">
+    <img
+      class="rounded rounded-circle mt-4"
+      src="https://bharathravu.github.io/images/profile.jpg"
+      alt=""
+      style="width: 95%; max-width: 300px;"
+    />
+  </div>
+</div>
+
+      <div class="p-2">
+        <h1 class="mb-0">Dr. Bharath Ravu</h1>
+<h2 class="mb-0"></h2>
+<h3 class="mb-0"></h3>
+<div class="mt-2 d-flex flex-wrap justify-content-center">
+  
+  <div style="height:45px; width:45px;">
+    <a href="https://www.linkedin.com/in/bharath-ravu-ph-d-54897440/">
+      <i class="zoomlink mt-1 fab fa-linkedin-in"></i>
+    </a>
+  </div>
+  
+  <div style="height:45px; width:45px;">
+    <a href="https://github.com/BharathRavu/">
+      <i class="zoomlink mt-1 fab fa-github"></i>
+    </a>
+  </div>
+  
+  <div style="height:45px; width:45px;">
+    <a href="#">
+      <i class="zoomlink mt-1 ai ai-google-scholar"></i>
+    </a>
+  </div>
+  
+</div>
+ <footer class=" mt-2 mb-2 ">
+  <span class="markdownify"></span>
+  <span style="font-size:0px;">
+    &middot;
+    <i>
+      <a href="https://github.com/darshanbaral/aafu">
+        aafu
+      </a>
+    </i>
+    by
+    <a href="https://www.darshanbaral.com/">
+      darshan
+    </a>
+  </span>
+</footer>
+
+      </div>
+    </div>
+  </div>
+  <div class="col-md-7 pt-2 mt-3">
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-user"></i>
+        About Me</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      <p class="markdownify">
+  <strong>Tagline. Lorem ipsum dolor sit amet</strong>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>
+
+    </div>
+    
+    <h2 class="accordion  active ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-project-diagram"></i>
+        Projects</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      <dl>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">project</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Description of the project</dd>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">project</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Description of the project</dd>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">project</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Description of the project</dd>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">project</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Description of the project</dd>
+  
+</dl>
+
+    </div>
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-list"></i>
+        Publications</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      
+
+
+<h4 style="text-decoration: underline;">Journal Articles</h4><p>2020.
+Bharath Ravu, Guy Metcalfe, Murray Rudman, Daniel R. Lester and Devang V. Khakhar.
+
+
+<a href="https://doi.org/10.1063/1.5135333">
+  <em>Global Organization of Three-Dimensional, Volume-Preserving Flows: Constraints, Degenerate Points, and Lagrangian Structure.</em>
+</a>
+
+
+Chaos: An Interdisciplinary Journal of Nonlinear Science, 30, 033124.
+</p>
+<p>2016.
+Bharath Ravu, Murray Rudman, Guy Metcalfe, Daniel R. Lester and Devang V. Khakhar.
+
+
+<a href="https://doi.org/10.1016/j.jcp.2016.07.018">
+  <em>Creating analytically divergence-free velocity fields from grid-based data.</em>
+</a>
+
+
+Journal of Computational Physics, 323, pp. 75-94.
+</p>
+<p>2016.
+M Suman Kalyan, Bharath Ravu, VSS Sastry, and KPN Murthy.
+
+
+<a href="https://doi.org/10.1007/s10955-016-1472-5">
+  <em>Joint Density of Stages Calculation Employing Wang-Landau Algorithm.</em>
+</a>
+
+
+Journal of Statistical Physics. Vol. 163(1), pp. 197-209.
+</p>
+
+
+<h4 style="text-decoration: underline;">Proceedings</h4><p>2016.
+Murray Rudman, M.F.M. Speetjens and Bharath Ravu.
+
+
+<a href="https://www.semanticscholar.org/paper/The-transition-to-fully-3D-chaos-in-Wavy-Taylor-Rudman-Speetjens/6df05fe702fbd5616e16f9c196bc572d98a0b1cd">
+  <em>The transition to fully 3D Chaos in Wavy Taylor Vortex flow.</em>
+</a>
+
+
+20th Australian Fluid Mechanics Conference.
+</p>
+
+
+
+
+    </div>
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-book"></i>
+        Notes</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      <ul class="pl-0">
+  
+  <dt>
+    <a href="https://bharathravu.github.io/data-science-notes/" style="font-variant: small-caps; ">Data Science</a>
+  </dt>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">Python</a>
+  </dt>
+  
+</ul>
+
+    </div>
+    
+    <script src="https://bharathravu.github.io/js/accordion.js"></script>
+  </div>
+</div>
+
+    </main>
+    
+  </body>
+</html>
