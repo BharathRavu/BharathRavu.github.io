@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bharathravu.github.io/notes/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <loc>https://bharathravu.github.io/blog/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/categories/aliquam-auctor/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/tags/aliquam-incididunt/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/categories/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/categories/do/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/tags/notes/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/tags/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/tags/velit/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bharathravu.github.io/notes/post_1/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <loc>https://bharathravu.github.io/blog/post_1/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bharathravu.github.io/notes/post_2/</loc>
+    <loc>https://bharathravu.github.io/blog/post_2/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,13 +93,17 @@
   </url>
   
   <url>
-    <loc>https://bharathravu.github.io/notes/post_3/</loc>
+    <loc>https://bharathravu.github.io/blog/post_3/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bharathravu.github.io/tags/mollis-urna/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bharathravu.github.io/blog/readme/</loc>
   </url>
   
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notes on </title>
-    <link>https://bharathravu.github.io/tags/notes/</link>
-    <description>Recent content in notes on </description>
+    <title>Atricles on </title>
+    <link>https://bharathravu.github.io/blog/</link>
+    <description>Recent content in Atricles on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bharathravu.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bharathravu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,6 +37,16 @@ Portfolio value at time=0, $V(0)=\sum_{i=1}^N x_i S_i(0)$, where $x_i$ is the nu
       
       <guid>https://bharathravu.github.io/blog/post_3/</guid>
       <description>donec lacinia eleifend sem a Pulvinar tempor ultrices amet praesent aliquet non magnis euismod elit venenatis. Aliqua consequat tristique erat nulla sit risus aliqua posuere. Potenti natoque augue proin accimsan risus scelerisque id integer curabitur mattis amet quisque. Aliquet porta sit sapien natoque sed fringilla, madssa suspendisse vivamus placerat sociis condimentum ridiculus. Natoque egestas non lectus pellentesque nunc mattis eu ridiculus pretium maecenas ligula. Gravida facilisis sem mollis sagittis aliquet ornare bibendum, leo nec morbi tortor diam maecenas tempor.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bharathravu.github.io/blog/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharathravu.github.io/blog/readme/</guid>
+      <description>title: &amp;ldquo;vestibulum vitghgae dictum aliqua phasellus magnis at&amp;rdquo; date: 2018-05-30 tags: [&amp;ldquo;aliquam incididunt&amp;rdquo;, &amp;ldquo;notes&amp;rdquo;, &amp;ldquo;velit&amp;rdquo;] categories: [&amp;ldquo;aliquam auctor&amp;rdquo;, &amp;ldquo;do&amp;rdquo;] description: &amp;ldquo;vulputate sem sapien felis ullamcorper risus mi eu metus integer posuere fermentum&amp;rdquo; draft: false
+import pandas as pd import os import numpy as np import matplotlib.pyplot as plt %matplotlib inline # Constants data_folder=&amp;#39;data_2020_09_25&amp;#39; variable=&amp;#39;Adj Close&amp;#39; start_date = &amp;#39;2010-09-25&amp;#39; end_date = &amp;#39;2020-09-25&amp;#39; n_stocks=len(os.listdir(data_folder)) def get_stocks_data_from_folder(data_folder, variable, start_date, end_date): files_list=os.listdir(data_folder) df=pd.DataFrame() for filename in files_list: file_path=os.</description>
     </item>
     
   </channel>
