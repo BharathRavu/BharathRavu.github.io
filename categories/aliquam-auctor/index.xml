@@ -13,10 +13,10 @@
     
     <item>
       <title>vestibulum vitae dictum aliqua phasellus magnis at</title>
-      <link>https://bharathravu.github.io/blog/post_1/</link>
+      <link>https://bharathravu.github.io/blog/temp/post_1/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://bharathravu.github.io/blog/post_1/</guid>
+      <guid>https://bharathravu.github.io/blog/temp/post_1/</guid>
       <description>eu velit magna aliqua hendrerit  One of the assumptions in financial modelling is that the returns of a security is a random variable. The standard deviation of the return is considered to be a measure of risk. The expected return should be higher for riskier securites and lower for safer securities.  For a portfolio with $N$ securities,
 Portfolio value at time=0, $V(0)=\sum_{i=1}^N x_i S_i(0)$, where $x_i$ is the number of shares and $S_i(0)$ is the price of the security $i$.</description>
     </item>
